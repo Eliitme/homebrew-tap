@@ -1,6 +1,6 @@
 cask "cluvia" do
-  version "0.1.1"
-  sha256 "db86e7514231facf4205cb31661e57e60469d0aa5c8c22020a0bf6005e30626d"
+  version "0.2.0"
+  sha256 "d1c6e197aaf68f7aec892c53c7356e6056621057c1eea3c73920fde22048d410"
 
   url "https://github.com/Eliitme/Cluvia/releases/download/v#{version}/Cluvia-#{version}.dmg"
   name "Cluvia"
